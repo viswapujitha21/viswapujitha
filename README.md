@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Innovator | Problem Solver | Quick Learner
+🚀Software Engineer | Experienced in Healthcare Tech | Java, Python, React, AWS | Optimized Web Apps for 10K+ Users | Skilled in API Development, Machine Learning and Data-Driven Solutions
 
 👨🏻‍💻 I'm a dedicated Software Engineer with 2+ years of experience in software engineering, specializing in full-stack development, machine learning, and cloud-based solutions.
 
