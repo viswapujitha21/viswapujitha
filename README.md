@@ -7,7 +7,7 @@ My journey has been defined by a drive to solve complex problems and deliver imp
 
 🌟 Enthusiastic about exploring new opportunities and tackling exciting challenges in the world of software engineering.
 ## 🌐 Socials:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswapujithasuresh/)]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswapujithasuresh/)
 ---
 
 ## 💻 Tech Stack:
