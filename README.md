@@ -3,7 +3,7 @@
 
 👨🏻‍💻 I'm a dedicated Software Engineer with 2+ years of experience in software engineering, specializing in full-stack development, machine learning, and cloud-based solutions.
 
-My journey has been defined by a drive to solve complex problems and deliver impactful results.
+Looking forward, I am excited to continue leveraging my skills in full-stack development, machine learning, and cloud technologies to innovate in the tech sectors. My goal is to create solutions that simplify lives and drive efficiency on a large scale, always with the user at the center of my design.
 
 🌟 Enthusiastic about exploring new opportunities and tackling exciting challenges in the world of software engineering.
 ## 🌐 Socials:
